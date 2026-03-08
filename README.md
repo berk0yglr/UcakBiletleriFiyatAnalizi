@@ -35,9 +35,9 @@ Farklı havayolu şirketlerinin genel fiyatlandırma stratejileri incelenmiş; `
 * **Pazarın Premium Liderleri:** Şirketlerin ortalama bilet satış fiyatları incelendiğinde, **Saudia** küresel pazarın en pahalı havayolu olarak öne çıkmaktadır. Onu 202.697 $ortalama ile Emirates ve 201.158$ ortalama ile Turkish Airlines takip etmektedir. En uygun fiyatlı ortalamayı ise 125.948 $ ile Etihad sunmaktadır.
 * **Mesafe ve Fiyat Çarpanı İlişkisi:** Veriler, mesafe arttıkça fiyatların neredeyse katlanarak arttığını kanıtlıyor. Kısa mesafe uçuşların ortalama maliyeti **76.175 $** iken, orta mesafede bu rakam **183.269 $**'a çıkmaktadır. 8.000 km üzerindeki 'Uzun Mesafe' uçuşların ortalaması ise **303.367 $** ile kısa mesafenin yaklaşık 4 katına ulaşmaktadır.
 * **Devasa Fiyat Uçurumu:** Veri setindeki en ucuz bilet **1.857 $** iken, mutlak en pahalı bilet (Qatar Airways - First Class, London -> Mumbai) **885.269 $** gibi çarpıcı bir rakama ulaşarak havacılık sektöründeki devasa müşteri segmenti farkını gözler önüne sermiştir.
-* **Sınıf İçi Zirveler:** Pencere fonksiyonu (Window Function) analizine göre; Economy sınıfının en pahalı biletini Etihad (247.236 $), Business sınıfının en pahalı biletini Saudia (513.378 $) satmıştır.
+* **Sınıf İçi Zirveler:** Pencere fonksiyonu (Window Function) analizine göre; Economy sınıfının en pahalı biletini Etihad (247.236 $),  Business sınıfının en pahalı  biletini  Saudia (513.378 $) satmıştır.
 
 ***
 
-**Berkay**
+**Berkay Güler**
 *Veri Analisti Adayı | Yönetim Bilişim Sistemleri Öğrencisi*
